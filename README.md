@@ -2,7 +2,8 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Screen Shot 2022-05-21 at 11 44 53 AM](https://user-images.githubusercontent.com/105984059/169659468-6300de34-fe13-4042-b986-c9b0fb94b414.png)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
